@@ -1,0 +1,6 @@
+//operator
+//arthimatic
+// +,-,*,/,% binary opertor
+// unary operators
+//++   increment
+//,--  decerement
